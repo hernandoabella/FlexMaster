@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  height: 200px;
+  border: 1px solid black;
+}
+
+.box {
+  background-color: #f88e36;
+  text-align: center;
+  padding: 10px;
+  border: #ccc;
+  border-radius: 12px;
+  flex: 1;
+}
